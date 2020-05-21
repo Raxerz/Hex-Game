@@ -8,10 +8,7 @@
 package com.hexgame;
 
 import javax.swing.*;
-/**
- *
- * @author Sayan
- */
+
 public class HexBoard extends javax.swing.JFrame {
 
     static ImageIcon o=new ImageIcon(Thread.currentThread().getContextClassLoader().getResource("images/icons/red.png"));

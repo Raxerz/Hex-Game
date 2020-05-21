@@ -10,10 +10,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-/**
- *
- * @author Sayan
- */
 public class HexGame extends javax.swing.JFrame {
 
     /**
