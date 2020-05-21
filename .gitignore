@@ -1,0 +1,9 @@
+# Java class files
+*.class
+
+# Generated files
+target/
+.idea/
+
+# Mac os
+.DS_Store

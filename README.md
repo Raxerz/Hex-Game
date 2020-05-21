@@ -9,4 +9,4 @@ Consists of:
     
     3. AI normal
     
-To run: Run NewJframe3
+To execute run - "java -jar artefact/Hex-Game-1.0.jar"

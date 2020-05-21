@@ -1,1 +1,0 @@
-web: java -jar target/Hex-Game-1.0-SNAPSHOT.jar
